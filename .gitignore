@@ -1,0 +1,12 @@
+# Segredos: NUNCA envie para o GitHub
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Sistema e editor
+node_modules/
+.DS_Store
+Thumbs.db
+.vscode/
+.vercel/
